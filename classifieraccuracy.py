@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 import numpy as np
 
 # Data and labels
-featues=[[140,0],[150,0],[170,1],[180,1]]
+features=[[140,0],[150,0],[170,1],[180,1]]
 labels=['apple','apple','mango','mango']
 
 # Classifiers
